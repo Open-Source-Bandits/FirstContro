@@ -5,7 +5,7 @@ size=400
 
 colors=['red','orange','yellow','green','blue','Indigo','violet']
 
-turtle.speed(7)
+turtle.speed(8)
 turtle.pensize(10)
 
 for i in colors:
