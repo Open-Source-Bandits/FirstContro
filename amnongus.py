@@ -140,7 +140,7 @@ def glass():
     t.end_fill()
 
 
-# NOW WE WILL CREATE BACKPACK() FUNCTION...
+# NOW WE WILL CREATE BACKPACK() FUNCTION..
 def backpack():
     t.up()
 
@@ -169,7 +169,7 @@ def backpack():
     t.forward(30)
 
     t.end_fill()
-# NOw CALL OUR ALL FUNCTIONS
+#NOw CALL OUR ALL FUNCTIONS
 
 body()
 
